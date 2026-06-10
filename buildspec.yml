@@ -1,0 +1,10 @@
+version: 0.2
+
+phases:
+  build:
+    commands:
+      - echo "Portfolio website build started"
+
+artifacts:
+  files:
+    - '**/*'
